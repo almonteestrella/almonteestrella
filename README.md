@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![testing a background image](/2023-09-08.png)
+
 <!--
 **almonteestrella/almonteestrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
