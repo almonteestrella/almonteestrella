@@ -2,7 +2,7 @@
 
 ![testing a background image](/2023-09-08.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=almonteestrella&show_icons=false">
+<img src="https://github-readme-stats.vercel.app/api?username=almonteestrella&show_icons=true&theme=react">
 
 ⭐️ From [Juan Almonte](https://github.com/almonteestrella)
 
