@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=almonteestrella&show_icons=false">
 
-⭐️ From [Umair Jibran](https://github.com/almonteestrella)
+⭐️ From [Juan Almonte](https://github.com/almonteestrella)
 
 <!--
 **almonteestrella/almonteestrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
